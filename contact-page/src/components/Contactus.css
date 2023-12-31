@@ -1,0 +1,138 @@
+*{
+    height: auto;
+    
+}
+.Top{
+    background-image: url('../assets/Background.webp');
+    height: 400px;
+    background-repeat: no-repeat;
+    
+}
+.container{
+    margin-left: 200px;
+    padding: 50px;
+}
+.Toplable{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+.topp {
+    color: white;
+}
+.button{
+    
+    border: none;
+    height: 35px;
+    width: 175px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.middel {
+    
+    width: 100%;
+    height: 630px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    
+}
+/* .Contactus{
+display: flex;
+flex-direction: column;
+} */
+.midleftbox{
+    padding-top: 75px;
+    
+    height: 550px;
+    width: 500px; 
+    margin-right: 70px; 
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.midrightbox{
+    padding: 10px;
+    border-radius: 10px;
+    height: 550px;
+    width: 400px; 
+    margin-right: 70px; 
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #1a73e8;
+    
+}
+.map{
+    
+    height: 300px;
+    width: 100%; 
+    margin-top:10px ; 
+}
+.Formlable{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+input{
+    margin: 10px;
+    height: 40px;
+    width: 360px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.formp{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color : white;
+}
+.btn{
+    margin: 10px;
+    height: 45px;
+    width: 360px;
+    border-radius: 5px;
+}
+textarea{
+    height: 100px;
+    margin: 10px;
+    width: 360px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.MidLeftBoxLable{
+    font-size: 40px;
+    font-weight: bold;
+    color: #133a75;
+   
+}
+.picon{
+    display: flex;
+}
+.iconimg{
+    height: 50px;
+    margin: 10px;
+}
+.midleftboxp{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 13px;
+    color:#666666;
+}
+.icondesc{
+    padding-top: 23px;
+    font-weight: bold;
+    margin-left: 15px;
+    color: #333333;
+}
+.icondes{
+    margin-left: 15px;
+    font-weight: bold;
+    color: #333333;
+}

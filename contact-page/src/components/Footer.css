@@ -1,0 +1,47 @@
+.main{
+    
+    height: 300px;
+    width: 100%;
+    background-color: #17478d;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 900px;
+
+    
+}
+span li::marker{
+    content: ">>";
+}
+.siconp{
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 130px;
+}
+.sicon{
+    margin: 5px;
+}
+.icont{
+        display: flex;
+}
+.iconp{
+    margin-top: 8px;
+    margin-left: 10px;
+}
+p{
+    font-size: 12px;
+}
+.copyright{
+    align-items: center;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    color: #e2eaf6;
+    background-color: #133a75;
+}
+li{
+    font-size: 12px;
+    margin: 5px;
+}

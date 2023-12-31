@@ -1,0 +1,51 @@
+/* .right{
+    border: 1px solid black;
+    display: flex;
+    justify-content: right;
+    font-weight: bold;
+    align-items: center;
+    align-items: right;
+    height: 80px;
+} */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+   
+
+}
+.Navbar{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    
+}
+.logo{
+    color :#133a75;
+    font-size: 35px;
+    line-height: 80px;
+    margin: 0 110px;
+    font-weight: bold;
+    
+}
+ul {
+    display: flex;
+    margin:auto;
+    justify-content: right;
+    align-items: center;
+    
+    width: 75%;
+
+}
+.Navbar li{
+    padding: 11px;
+    font-weight: bold;
+    font-size:12px;
+
+}
+.Navbar li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
